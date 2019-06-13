@@ -14,7 +14,7 @@
                     <div class="rd-navbar-brand {{ (!Request::is('/'))?'pull-left':'' }}">
                         <a href="{{ url('/') }}" class="reveal-inline-block">
                             <div class="unit unit-xs-middle unit-lg unit-lg-horizontal unit-spacing-xxs">
-                                <div class="unit-left"><img style="height: 90px;width: 350px;" src='{{ url('/images/logo/shanmugha-college-of-pharmacy-logo.png') }}' title="Shanmugha pharmacy logo" alt='Shanmugha pharmacy logo'/></div>
+                                <div class="unit-left"><img style="height: 90px;width: 350px;" src='{{ url('/images/logo/logo.png') }}' title="Shanmugha nursing logo" alt='Shanmugha nursing logo'/></div>
                                 <div class="unit-body text-lg-left">
                                     <div class="rd-navbar-brand-title"></div>
                                     <div class="rd-navbar-brand-slogan text-light"></div>
@@ -26,7 +26,7 @@
                         <div class="rd-navbar-mobile-scroll">
                             <div class="rd-navbar-mobile-header-wrap">
                                 <!--Navbar Brand Mobile-->
-                                <div class="rd-navbar-mobile-brand"><a href="{{ url('/') }}"><img width='270' height='80' src='{{ url('/images/logo/shanmugha-college-of-pharmacy-logo.png') }}' title="Shanmugha pharmacy logo" alt='Shanmugha pharmacy logo'/></a></div>
+                                <div class="rd-navbar-mobile-brand"><a href="{{ url('/') }}"><img width='270' height='80' src='{{ url('/images/logo/logo.png') }}' title="Shanmugha nursing logo" alt='Shanmugha nursing logo'/></a></div>
                             </div>
                             <!-- RD Navbar Nav-->
                             <ul class="rd-navbar-nav">
@@ -99,7 +99,7 @@
                     <div class="rd-navbar-brand-left pull-right">
                         <a href="{{ url('/') }}" class="reveal-inline-block">
                             <div class="unit unit-xs-middle unit-lg unit-lg-horizontal unit-spacing-xxs">
-                                <div class="unit-right"><img style="height: 80px;width: 90px; padding-left: 10px" src='{{ url('/images/logo/shanmugha-educational-institution-logo.png') }}' title="Shanmugha pharmacy logo" alt='Shanmugha pharmacy logo'/></div>
+                                <div class="unit-right"><img style="height: 80px;width: 90px; padding-left: 10px" src='{{ url('/images/logo/shanmugha-educational-institution-logo.png') }}' title="Shanmugha nursing logo" alt='Shanmugha nursing logo'/></div>
                                 <div class="unit-body text-lg-left">
                                     <div class="rd-navbar-brand-title"></div>
                                     <div class="rd-navbar-brand-slogan text-light"></div>

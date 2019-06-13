@@ -84,19 +84,19 @@
 
         <div data-height="47.179%" data-loop="true" data-dragable="false" data-min-height="480px" data-slide-effect="true" class="swiper-container swiper-slider">
             <div id="swiper-wrapper">
-                <img class="imageSlides" src="/images/slider/college.jpg" style="background-position: 50% center" class="swiper-slide">
-                <img class="imageSlides" src="/images/slider/library.jpg" style="background-position: 70% center" class="swiper-slide">
-                <img class="imageSlides" src="/images/slider/pharmact-lab.jpg" style="background-position: 70% center" class="swiper-slide">
-                <img class="imageSlides" src="/images/slider/pharmacy-class.jpg" style="background-position: 60% center" class="swiper-slide">
-                <img class="imageSlides" src="/images/slider/auditorium.jpg" style="background-position: 60% center" class="swiper-slide">
+                <img class="imageSlides" src="/images/nursing/nursing-lab-1.jpg" style="background-position: 50% center" class="swiper-slide">
+                <img class="imageSlides" src="/images/nursing/nursing-lab-2.jpg" style="background-position: 70% center" class="swiper-slide">
+                <img class="imageSlides" src="/images/nursing/shanmugha-hospital-image.jpg" style="background-position: 70% center" class="swiper-slide">
+                <!-- <img class="imageSlides" src="/images/slider/pharmacy-class.jpg" style="background-position: 60% center" class="swiper-slide">
+                <img class="imageSlides" src="/images/slider/auditorium.jpg" style="background-position: 60% center" class="swiper-slide"> -->
                 <span id ="leftArrow" class="slideshowArrow">&triangleleft;</span>
                 <span id ="rightArrow" class="slideshowArrow">&triangleright;</span>
                 <div class="slideshowCircles">
                     <span class="circle dot"></span>
                     <span class="circle"></span>
                     <span class="circle"></span>
-                    <span class="circle"></span>
-                    <span class="circle"></span>
+                    <!-- <span class="circle"></span>
+                    <span class="circle"></span> -->
                     
 
                 </div>
@@ -106,15 +106,16 @@
     </section>
 
     <div class="newsLetterStyle"><span style="color: white;">News Letter</span></div>
-    <div class="news NewsS">
-        <marquee id="scroll_news" style="font-family:Book Antiqua; color: #FFFFFF" bgcolor="#161a63">
-            <div onmouseover="document.getElementById('scroll_news').stop();" onmouseout="document.getElementById('scroll_news').start();">
-                <p style="color: white">
-                    <span class="fa fa-newspaper-o" aria-hidden="true"></span> SPRAYS News Letter Sep - Dec 2018 <a href="https://shanmughapharmacy.edu.in/pharmacy/news-letter/news-letter-sep-dec-2018.pdf" target="_blank">click</a>
-                </p>
-            </div>
-        </marquee>
-    </div>
+        <div class="news NewsS">
+            <marquee id="scroll_news" style="font-family:Book Antiqua; color: #FFFFFF" bgcolor="#161a63">
+                <div onmouseover="document.getElementById('scroll_news').stop();" onmouseout="document.getElementById('scroll_news').start();">
+                    <p style="color: white">
+                        <span class="fa fa-newspaper-o" aria-hidden="true"></span> SPRAYS News Letter Sep - Dec 2018 <a href="https://shanmughapharmacy.edu.in/pharmacy/news-letter/news-letter-sep-dec-2018.pdf" target="_blank">click</a>
+                    </p>
+                </div>
+            </marquee>
+        </div>
+    
     <section>
         <div class="row">
             <div class="col-sm-9">
@@ -122,7 +123,7 @@
                     <div class="bg-lightest section-30 inset-left-30 inset-right-30">
                         <div>
                             <h3 class="text-bold">Our Institution</h3>
-                            <p align="justify">&nbsp;&nbsp;&nbsp;<b><font size="4">Sri Shanmugha College of Nursing</b> was established in the year 2017 by the industrialist and philanthropist, Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University, Chennai, Approved by the Nursing Council of India (PCI) and All India Council of Technical Education (AICTE), New Delhi. The college is located in an Extensive campus of about 120 acres on the state highway connecting Sankari and Tiruchengode. The primary objective of Sri Shanmugha College of Nursing is to provide quality education and enables the students to excel in the field of Nursing. The institution facilitates them to become skilled in nursing field, analyze the concepts and apply it for the real benefits which also ensures them to become confident and competent in Pharmaceutical field.</font></p>
+                            <p align="justify">&nbsp;&nbsp;&nbsp;<b><font size="4">Sri Shanmugha College of Nursing</b> is sponsored by Sri Shanmugha Educational and Charitable Trust. Thiru. K. Shanmugham is the Chairman of the Trust. Under the able guidance and patronage of Thiru. K. Shanmugham, Chairman, Thiru.S.Prabahar, Vice-Chairman, Sri Shanmugha College of Engineering and Technology, has developed excellent facilities such as spacious air-conditioned classrooms, seminar halls, well-equipped laboratories, workshops, library and steadfast high speed Internet connectivity.Sri Shanmugha College of Nursing was established in the year 2017 .The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University, Chennai and Tamilnadu Nursing And Midwives Council. The college is located in an Extensive campus of about 120 acres on the state highway connecting Sankari and Tiruchengode. The primary objective of Sri Shanmugha College of Nursing is to provide quality education and enables the students to excel in the field of Nursing. The institution facilitates them to become skilled in nursing field, analyze the concepts and apply it for the real benefits which also ensures them to become confident and competent in Nursing field.</font></p>
                         </div>
                     </div>
                 </div>
