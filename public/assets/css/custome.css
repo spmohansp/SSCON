@@ -1,0 +1,176 @@
+/**
+* CloudStar Mohan
+* https://cloudstarmohan.wordpress.com/
+*/
+.CourseImage {
+    border: 1px solid #dc1fc5;
+    border-radius: 10px;
+    padding: 2px;
+    width: 300px;
+}
+
+.AboutImage {
+    border: 1px solid #dc1fc5;
+    border-radius: 10px;
+    padding: 2px;
+}
+.NewsS{
+    background: #161a63;
+    padding: 9px 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.newsLetterStyle{
+    background: #7f0909;
+    padding: 12px 15px;
+    float: left;
+    margin: 10px 0 10px;
+    z-index: 100;
+    position: absolute;
+}
+
+.HomeNewsLetterDate{
+    float: left;
+    background-color: #2B4BAB;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    width: 50px;
+    height: 60px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 8px;
+    margin: 20px 10px 5px 20px;
+}
+
+.holder {
+    background-color: white;
+    width: 93%;
+    height: 300px;
+    overflow: hidden;
+    padding: 10px;
+    margin-left: 5%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(22,26,99);
+    padding-left: 1px;
+    font-family: Helvetica;
+    margin-right: 10%;
+}
+
+
+
+/*Image Home popup start*/
+#popup{
+    position:absolute;
+    background:#fff;
+    left:55%;
+    top:50%;
+    border-radius:10px;
+    margin-top: -16%;
+    padding:30px 0;
+    margin-left:30px; /* width/2 + padding-left */
+    text-align:center;
+    box-shadow:0 0 10px 0 #000;
+    width: 30em;
+    height: 45em;
+    background-image: url("/images/admission/shanmugha-college-admission-2019-2020.jpg");
+    background-repeat: no-repeat;
+    background-size: 30em;
+    z-index: 2;
+    margin-left: -20%;
+}
+#close{
+    position:absolute;
+    background:black;
+    color:white;
+    right:-15px;
+    top:-15px;
+    border-radius:50%;
+    width:30px;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+    font-size:8px;
+    font-weight:bold;
+    font-family:'Arial Black', Arial, sans-serif;
+    cursor:pointer;
+    box-shadow:0 0 10px 0 #000;
+}
+@media  only screen and (max-width: 600px) {
+    #popup {
+        position: absolute;
+        background: #fff;
+        border-radius: 10px;
+        padding: 60px 0;
+        /*margin-left: 30px; !* width/2 + padding-left *!*/
+        text-align: center;
+        box-shadow: 0 0 10px 0 #000;
+        width: 20em;
+        height: 15em;
+        background-image: url("https://shanmughapharmacy.edu.in/pharmacy/images/college/shanmugha-college-admission-2019-2020.jpg");
+        background-repeat: no-repeat;
+        background-size: 19em;
+        z-index: 2;
+        margin-left: -40%;
+    }
+
+    #close {
+        position: absolute;
+        background: black;
+        color: white;
+        right: -15px;
+        top: -15px;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 8px;
+        font-weight: bold;
+        font-family: 'Arial Black', Arial, sans-serif;
+        cursor: pointer;
+        box-shadow: 0 0 10px 0 #000;
+    }
+}
+@media  only screen and (max-width: 800px) {
+    #popup {
+        position: absolute;
+        background: #fff;
+        left: 33%;
+        top: 25%;
+        border-radius: 10px;
+        margin-top: 20%;
+        padding: 60px 0;
+        margin-left: 30px;
+        text-align: center;
+        box-shadow: 0 0 10px 0 #000;
+        width: 20em;
+        height: 30em;
+        background-image: url("/images/admission/shanmugha-college-admission-2019-2020.jpg");
+        background-repeat: no-repeat;
+        background-size: 20em;
+        z-index: 2;
+        margin-left: -20%;
+    }
+
+    #close {
+        position: absolute;
+        background: black;
+        color: white;
+        right: -15px;
+        top: -15px;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 8px;
+        font-weight: bold;
+        font-family: 'Arial Black', Arial, sans-serif;
+        cursor: pointer;
+        box-shadow: 0 0 10px 0 #000;
+    }
+}
+/*Image popup end*/
