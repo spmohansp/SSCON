@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Anti- Ragging Squad @endsection
+@section('title')Sri Shanmugha College of Nursing For Women (SSCP).Anti- Ragging Squad.@endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description') Sri Shanmugha College of Nursing For Women (SSCP).Anti-Ragging Squad. @endsection
 
 @section('MobileTitle')Anti- Ragging Squad @endsection
 
@@ -28,7 +28,8 @@
 @endsection
 
 @section('content')
-    <main class="page-content section-100 section-md-114">
+
+ <main class="page-content section-100 section-md-114">
         <div class="shell text-left">
             <div class="range range range-xs-center">
                 <div class="cell-xs-12 cell-sm-12">
@@ -78,7 +79,6 @@
                             <td>8778310052</td>
                             <td>balasubramaniyamp@shanmughapharmacy.edu.in</td>
                             <td>53/3,Palanaickenpalayam,Kokarayenpeetai,Tiruchengodu,Erode-638003.</td>
-
                         </tr>
                         <tr>
                             <td>4</td>

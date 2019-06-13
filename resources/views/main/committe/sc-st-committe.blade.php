@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - SC/ST Committee @endsection
+@section('title')Sri Shanmugha College of Nursing (SSCP)- SC/ST Committee @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description') Sri Shanmugha College of Nursing For Women (SSCP).Anti-Ragging Squad. @endsection 
 
 @section('MobileTitle')SC/ST Committee @endsection
 
@@ -35,8 +35,7 @@
             <div class="range range range-xs-center">
                 <div class="cell-xs-10 cell-sm-8">
                     <h6 class="text-bold">SC/ST Committee</h6>
-                    <p align="justify">&ensp;&ensp;&ensp;The committee was set up in order to redress academic, non-academic problems andgrievances which faculty and students undergo in the campus. Proper remedial measures oractions are made with regard to the base and nature of the problems.</p>
-                    <p align="justify">&ensp;&ensp;&ensp; This committee is formed as per guidelines from AICTE approval process hand book forthe academic year 2017-18 and the Scheduled Castes and the scheduled Tribes (Prevention ofAtrocities) Act. 1989, No. 33 of1989, and dated 11.09.1989.This committee spreadsawareness and prevent untoward incidence regarding these matters as well as handle thecomplaints with reference to the above said act.</p>
+                    <p align="justify">&ensp;&ensp;&ensp;The committee was set up in order to redress academic, non-academic problems andgrievances which faculty and students undergo in the campus. Proper remedial measures oractions are made with regard to the base and nature of the problems. </p><p align="justify">&ensp;&ensp;&ensp;This committee is formed as per guidelines from AICTE approval process hand book forthe academic year 2017-18 and the Scheduled Castes and the scheduled Tribes (Prevention ofAtrocities) Act. 1989, No. 33 of1989, and dated 1 1 .09.1989.This committee spreadsawareness and prevent untoward incidence regarding these matters as well as handle thecomplaints with reference to the above said act.</p>
                     <p align="justify">&ensp;&ensp;&ensp;The scheduled Caste (SC) and Scheduled Tribes (ST) Cell in an institute promotes thespecial interest of students in the reserved category and to provide special inputs in areaswhere the students experience difficult. The cell regularly have to conduct remedial coachingclasses on life skills, personality development, writing assignments and making presentationsand also have to organize interactive sessions and informal meetings with students to attend totheir personal, social and academic problems. In case of any grievance in this regard, studentscan approach the committee for redressal. The committee will suggest measures to preventatrocities, if any against the members of SC/ST students in our College and to ensure thefeeling of security amongst them as per the provisions in the said act.</p>
 
             <div class="offset-top-60">

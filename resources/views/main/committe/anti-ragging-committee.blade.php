@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Anti- Ragging Committee @endsection
+@section('title')Sri Shanmugha College of Nursing For Women (SSCP) - Anti- Ragging Committee @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description') Sri Shanmugha College of Nursing (SSCON) is sponsored by Sri Shanmugha Educational and Charitable Trust. @endsection
 
 @section('MobileTitle')Anti- Ragging Committee @endsection
 
@@ -33,7 +33,11 @@
             <div class="range range range-xs-center">
                 <div class="cell-xs-10 cell-sm-8">
                     <h6 class="text-bold">Constitution of Anti -Ragging Committee</h6>
-                    <p align="justify">&ensp;&ensp;&ensp;On behalf of Sri Shanmugha College of Pharmacy, Morur post, pullipalayam, Sankari Tk, Salem Dt the following members were appointed in the anti-ragging committee. The committee has the rights to act against ragging by means of any conduct whether by words spoken or written or by an act which has the effect of teasing, treating, handling with rudeness any other student, indulging in rowdy or undisciplined activities which causes or is likely to cause annoyance, hardship or psychological harm or to raise fear or apprehension thereof in a fresher or a junior student or asking the students to do any act or perform something which such student will not  in the ordinary course and which has the effect of causing or generating a sense of shame or embarrassment so as to adversely affect the physique or psyche of a fresher or a junior student. The Anti-Ragging Committee Members are as follows.</p>
+                    <p align="justify">&ensp;&ensp;&ensp;On behalf of Sri Shanmugha College of Nursing, Morur post, pullipalayam, Sankari Tk, Salem Dt the following members were appointed in the anti-ragging committee. The committee has the rights to act against ragging by means of any conduct whether by words spoken or written or by an act which has the effect of teasing, treating, handling with rudeness any other student, indulging in rowdy or undisciplined activities which causes or is likely to cause annoyance, hardship or psychological harm or to raise fear or apprehension thereof in a fresher or a junior student or asking the students to do any act or perform something which such student will not  in the ordinary course and which has the effect of causing or generating a sense of shame or embarrassment so as to adversely affect the physique or psyche of a fresher or a junior student. The Anti-Ragging Committee Members are as follows.</p>
+  <div class="col-md about_bottom_left">
+                   
+                </div>
+
                     <div class="offset-top-60">
                         <h6 class="text-bold">Members of Anti-Ragging Committee</h6>
                         <table data-responsive="true" class="table table-custom table-dark-blue table-fixed large-only">
@@ -59,7 +63,7 @@
                                 <tr>
                                     <td>Anti-Ragging Committee</td>
                                     <td>MR. K. ARULKUMAR</td>
-                                    <td>TAHSILDAR</td>
+                                    <td>DAHSILDAR</td>
                                     <td>TALUK OFFICE, SANKARI, SALEM DT</td>
                                     <td>GOVT OF TAMILNADU</td>
                                     <td>9445000554</td>
