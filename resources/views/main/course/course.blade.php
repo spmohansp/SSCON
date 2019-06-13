@@ -38,14 +38,14 @@
                         <div class="product-body">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="/images/slider/pharmact-lab.jpg" width="400" height="400" alt="" class="img-responsive CourseImage">
+                                    <img src="/images/nursing/nursing-lab-2.jpg" width="400" height="400" alt="" class="img-responsive CourseImage">
                                 </div>
                                 <div class="col-sm-9">
                                     <div class="offset-top-10">
-                                        <h4 class="text-primary">B.PHARM (4 YEARS)</h4>
+                                        <h4 class="text-primary">B.Sc Nursing</h4>
                                     </div>
                                     <div class="offset-top-22">
-                                        <p style="text-align: justify;">A pass in Higher Secondary Course with Physics, Chemistry, Biology or Botany and Zoology or Mathematics not less than 40 % aggregate marks. (SC/SCA/ST categories must have obtained pass in H.S.C)</p>
+                                        <p style="text-align: justify;">A pass in Higher Secondary Course with Physics, Chemistry, Biology or Botany and Zoology not less than 45 % aggregate marks. (SC/SCA/ST categories must have obtained pass in H.S.C)</p>
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <div class="offset-top-30 range range-xs-center range-lg-condensed section-products">
+            <!-- <div class="offset-top-30 range range-xs-center range-lg-condensed section-products">
                 <div class="cell-xs-10 cell-lg-12 cell-sm-6 cell-md-4 offset-top-30 offset-lg-top-0">
                     <div class="product">
                         <div class="product-body">
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 @endsection

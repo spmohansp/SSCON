@@ -31,8 +31,8 @@
     <section class="section-70 section-md-114">
         <div class="shell">
             <div class="range">
-                <div class="cell-sm-4 cell-sm-push-2 text-sm-left">
-                    <div class="inset-sm-left-30"><img src="{{ url('/images/college/shanmugha-pharmacy-college-building.jpg') }}" width="450" height="400" alt="Shanmugha pharmacy" class="img-responsive reveal-inline-block img-rounded">
+                <div class="cell-sm-4 cell-sm-push-2 text-sm-left"><br><br>
+                    <div class="inset-sm-left-30"><img src="{{ url('/images/nursing/nursing-lab-2.jpg') }}" width="450" height="400" alt="Shanmugha nursing" class="img-responsive reveal-inline-block img-rounded">
                         <div class="offset-top-20">
                             <h6 class="text-primary text-bold">Our Institution</h6>
                         </div>
@@ -42,7 +42,7 @@
                     <h2 class="text-bold">Our Institution</h2>
                     <hr class="divider bg-madison hr-sm-left-0">
                     <div class="offset-top-30 offset-sm-top-60">
-                        <p align="justify">&nbsp;&nbsp;&nbsp;<b>Sri Shanmugha College of Nursing</b> was established in the year 2017 by the industrialist and philanthropist, Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University, Chennai, Approved by the Nursing Council of India (PCI) and All India Council of Technical Education (AICTE), New Delhi. The college is located in an Extensive campus of about 120 acres on the state highway connecting Sankari and Tiruchengode. The primary objective of Sri Shanmugha College of Nursing is to provide quality education and enables the students to excel in the field of Nursing. The institution facilitates them to become skilled in pursing field, analyze the concepts and apply it for the real benefits which also ensures them to become confident and competent in Pharmaceutical field.</p>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;<b>The Sri Shanmugha College of Nursing for Women</b> was established in 2018 by Sri Shanmugha Educational Charitable Trust to promote quality in Nursing Education. The College is committed to enable the students to achieve and maintain highest standards of the profession in Nursing Education, Practice and Research. The College of Nursing has grown since and now offers five courses.</p>
                     </div>
                 </div>
             </div>

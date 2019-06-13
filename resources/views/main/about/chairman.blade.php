@@ -53,7 +53,7 @@
                         <div class="text-subline"></div>
                     </div>
                     <div class="offset-top-20">
-                        <p>Sri Shanmugha College of Nursing is sponsored by Sri Shanmugha Educational and Charitable Trust. Thiru. K. Shanmugham is the Chairman of the Trust. His vision is to provide quality and enriched educational system for students and to build confidence in them to prove their realm of success. Under the able guidance and patronage of Thiru. K. Shanmugham, Chairman, Thiru.S.Prabahar, Vice-Chairman has developed excellent facilities such as spacious air-conditioned classrooms, seminar halls, well-equipped laboratories, library, sports facilities and steadfast high speed Internet connectivity.</p>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;Sri Shanmugha College of Nursing is sponsored by Sri Shanmugha Educational and Charitable Trust.Thiru. K. Shanmugham is the Chairman of the Trust. His vision is to provide quality and enriched educational system for students and to build confidence in them to prove their realm of success. Under the able guidance and patronage of Thiru. K. Shanmugham, Chairman, Thiru.S.Prabahar, Vice-Chairman has developed excellent facilities such as spacious air-conditioned classrooms, seminar halls, well-equipped laboratories, library, sports facilities and steadfast high speed Internet connectivity.</p><br>
                     </div>
                 </div>
             </div>

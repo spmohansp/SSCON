@@ -35,14 +35,14 @@
                     <div class="inset-sm-right-30"><img src="" width="340" height="340" class="img-responsive reveal-inline-block">
                         <div class="offset-top-15 offset-sm-top-30">
                             <ul class="list list-unstyled">
-                                <li><span class="icon icon-xs mdi mdi-email-open text-middle text-madison"></span><a href="mailto:principal@shanmughapharmacy.edu.in" class="reveal-inline-block inset-left-10">principal@shanmughapharmacy.edu.in</a></li>
+                                <li><span class="icon icon-xs mdi mdi-email-open text-middle text-madison"></span><a href="mailto:principal@shanmughapharmacy.edu.in" class="reveal-inline-block inset-left-10">principal@shanmughanursing.edu.in</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div class="cell-sm-8 text-left">
                     <div>
-                        <h2 class="text-bold">Thiru. S.Jayaraman</h2>
+                        <h2 class="text-bold">Dr.K.Uthramani</h2>
                     </div>
                     <p class="offset-top-10">Principal Sri Shanmugha College of Nursing</p>
                     <div class="offset-top-15 offset-sm-top-30">
@@ -53,13 +53,13 @@
                         <div class="text-subline"></div>
                     </div>
                     <div class="offset-top-20">
-                        <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pharmacists comprise the third largest healthcare professionals in the world and nursing profession. Now, the role of pharmacists is expanding and now pharmacists are playing a role as a vital team member in the health care of patients. I am sure that, opportunities are awaiting for nursing graduates in and around India.<strong>Sri Shanmugha College of Nursing</strong>(SSCOP) offers Nursing Programmes and are <strong>approved by AICTE, PCI and The Tamilnadu Dr. MGR Medical University</strong>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sri Shanmugha College of Nursing for Women was started in the year 2018 with the fore sight and vision of our Chairman <strong>to prepare professional nurses,</strong> in order to improve standards of nursing service through quality education. We offer, <strong>B.Sc. Nursing.</strong> Our college has <strong>recognition from  Tamilnadu  State Nursing Council College</strong> is equipped with qualified and competent teachers, good physical infrastructure, Library and most importantly students get opportunity for clinical learning in different hospital.
                             <br><br>
 
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have Air Conditioned Smart Classrooms, well equipped High-Tech Laboratories and a Digital Library with large collection of books and journals. We are conducting GPAT coaching and Basic Skill development programmes from the beginning level itself. A <strong>beautiful garden with medicinal plants and greenish Eco free Environment</strong> are the specific highlights of our SSCOP campus.
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nursing students do have benefit of contributions from interdisciplinary teaching faculty and <strong>ample opportunity for extra- curricular activities</strong> as college has excellent facilities for the same.
                             <br><br>
 
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Young, Experienced and Energetic Faculties who are ready to give in their best to the students.We shall become the Center of Excellence in Pharmaceutical Education and Research by developing innovative teaching practice. <strong>Our primary aim is to produce a quality Pharma Graduates</strong> who will impact the health care needs of people and will enable them to shine in their life.We will continue to provide the best infrastructure and facilities to the students of our college so that they will always be a step ahead of their Challengers.With this, I invite all budding students to join hands with dynamic and developing environment of SSCOP campus and make your step ahead towards future Pharmaceutical Science profession.</p><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our college expects all the students to maintain strict discipline, decency and decorum inside and outside the campus. I expect your wholehearted co-operation and compliance in this regard. I <strong>warmly invite you to be a proud nursing student of Sri Shanmugha College of nursing for women.</strong> I extend my best wishes to you all for a bright future.</p><br>
                     </div>
                 </div>
             </div>

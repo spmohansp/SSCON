@@ -48,9 +48,9 @@
                                                 <li>
                                                     <h6><a href="{{ route('courses') }}">Courses</a></h6>
                                                     <ul class="list-unstyled offset-lg-top-20">
-                                                        <li><a href="{{ route('courses') }}">B.Pharm (4 years)</a></li>
-                                                        <li><a href="{{ route('courses') }}">D.Pharm (2 years)</a></li>
-                                                        <li><a href="{{ route('courses') }}">B.Pharm Lateral Entry (3 years)</a></li>
+                                                        <li><a href="{{ route('courses') }}">B.Sc Nursing</a></li>
+                                                        <!-- <li><a href="{{ route('courses') }}">D.Pharm (2 years)</a></li>
+                                                        <li><a href="{{ route('courses') }}">B.Pharm Lateral Entry (3 years)</a></li> -->
                                                     </ul>
                                                 </li>
                                             </ul>
