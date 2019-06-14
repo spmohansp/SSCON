@@ -40,16 +40,17 @@
 
                     <div class="offset-top-60">
                         <h6 class="text-bold">Members of Anti-Ragging Committee</h6>
-                        <table data-responsive="true" class="table table-custom table-dark-blue table-fixed large-only">
+                       <div class="table-responsive">
+                        <table class="table table-bordered">
                             <tbody>
                                 <tr>
-                                    <th>Committee</th>
-                                    <th>Name</th>
-                                    <th>Position</th>
-                                    <th>Address</th>
-                                    <th></th>
-                                    <th>Contact No</th>
-                                    <th>Mail Id</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Committee</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Name</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Position</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Address</th>
+                                    <th style="background-color:#7f0909;color:#fff;"></th>
+                                    <th style="background-color:#7f0909;color:#fff;">Contact No</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Mail Id</th>
                                 </tr>
                                 <tr>
                                     <td>Chairman Anti-Ragging Committee</td>
@@ -107,6 +108,7 @@
                                 </tr>
                             </tbody>
                         </table>
+                    </div>
                     </div>
                 </div>
             </div>

@@ -35,18 +35,19 @@
             <div class="range range range-xs-center">
                 <div class="cell-xs-12 cell-sm-12">
                     <h6 class="text-bold">Members of Anti-Ragging Squad</h6>
-                    <table data-responsive="true" class="table table-custom table-dark-blue table-fixed large-only">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <th>S.No</th>
-                            <th>Name</th>
-                            <th>Position</th>
-                            <th>Category</th>
-                            <th>Present /Designation</th>
-                            <th>Telephone numbers</th>
-                            <th>Mobile numbers</th>
-                            <th>Email - id</th>
-                            <th>Address</th>
+                            <th style="background-color:#7f0909;color:#fff;">S.No</th>
+                            <th style="background-color:#7f0909;color:#fff;">Name</th>
+                            <th style="background-color:#7f0909;color:#fff;">Position</th>
+                            <th style="background-color:#7f0909;color:#fff;">Category</th>
+                            <th style="background-color:#7f0909;color:#fff;">Present /Designation</th>
+                            <th style="background-color:#7f0909;color:#fff;">Telephone numbers</th>
+                            <th style="background-color:#7f0909;color:#fff;">Mobile numbers</th>
+                            <th style="background-color:#7f0909;color:#fff;">Email - id</th>
+                            <th style="background-color:#7f0909;color:#fff;">Address</th>
                         </tr>
                         <tr>
                             <td>1</td>
@@ -116,6 +117,7 @@
                         </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
             </div>
         </div>
