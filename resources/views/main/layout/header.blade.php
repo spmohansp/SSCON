@@ -65,7 +65,7 @@
                                                         <li><a href="#">Auditorium</a></li>
                                                         <li><a href="#">Sports & Games</a></li>
                                                         <li><a href="#">Fitness Center</a></li>
-                                                        <li><a href="{{ route('Student_Grievance') }}">Students Grievances</a></li>
+                                                       
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -88,6 +88,7 @@
                                         <li><a href="{{ route('Anti-Discrimination-Cell') }}">Anti-Discrimination Cell</a></li>
                                         <li><a href="{{ route('anti-ragging-committee') }}">Anti-Ragging Comittee</a></li>
                                         <li><a href="{{ route('sc-st-committe') }}">SC/ST</a></li>
+                                         <li><a href="{{ route('Student_Grievance') }}">Students Grievances</a></li>
                                     </ul>
                                 </li>
                                 <li class="@yield('Events')"><a href="{{ url('/events') }}">Events</a></li>
