@@ -52,9 +52,6 @@ Route::get('/transport', function () {
 Route::get('/library', function () {
     return view('main.facilities.library');
 })->name('Library');
-Route::get('/Student-Grievance-Redressal-Cell', function () {
-    return view('main.facilities.grievance');
-})->name('Student_Grievance');
 
 //Events
 Route::get('/events', function () {
@@ -89,6 +86,11 @@ Route::get('/anti-ragging-committee', function () {
 Route::get('/sc-st-committee', function () {
     return view('main.committe.sc-st-committe');
 })->name('sc-st-committe');
+
+Route::get('/Student-Grievance-Redressal-Cell', function () {
+    return view('main.committe.grievance');
+})->name('Student_Grievance');
+
 
 
 
