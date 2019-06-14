@@ -61,6 +61,7 @@
                                                         <li><a href="{{ route('Hostel') }}">Hostel</a></li>
                                                         <li><a href="{{ route('Cafeteria') }}">Cafeteria</a></li>
                                                         <li><a href="{{ route('Transport') }}">Transport</a></li>
+
                                                         <li><a href="{{ route('Library') }}">Knowledge Centre</a></li>
                                                         <li><a href="{{ route('Laboratory') }}">Laboratory Facilities</a></li>
                                                         <li><a href="{{ route('Clinical_Experience') }}">Clinical Experience</a></li>
@@ -69,6 +70,12 @@
                                                         <li><a href="{{ route('Sports') }}">Sports</a></li>
                                                         <li><a href="{{ route('Scholarships') }}">Scholarships</a></li>
                                                       
+                                                        <li><a href="{{ route('Library') }}">Library</a></li>
+                                                        <li><a href="#">Auditorium</a></li>
+                                                        <li><a href="#">Sports & Games</a></li>
+                                                        <li><a href="#">Fitness Center</a></li>
+                                                       
+
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -91,6 +98,7 @@
                                         <li><a href="{{ route('Anti-Discrimination-Cell') }}">Anti-Discrimination Cell</a></li>
                                         <li><a href="{{ route('anti-ragging-committee') }}">Anti-Ragging Comittee</a></li>
                                         <li><a href="{{ route('sc-st-committe') }}">SC/ST</a></li>
+                                         <li><a href="{{ route('Student_Grievance') }}">Students Grievances</a></li>
                                     </ul>
                                 </li>
                                 <li class="@yield('Events')"><a href="{{ url('/events') }}">Events</a></li>

@@ -75,6 +75,7 @@ Route::get('/scholarships', function () {
 })->name('Scholarships');
 
 
+
 //Events
 Route::get('/events', function () {
     return view('main.events.list-event');
@@ -108,6 +109,11 @@ Route::get('/anti-ragging-committee', function () {
 Route::get('/sc-st-committee', function () {
     return view('main.committe.sc-st-committe');
 })->name('sc-st-committe');
+
+Route::get('/Student-Grievance-Redressal-Cell', function () {
+    return view('main.committe.grievance');
+})->name('Student_Grievance');
+
 
 
 

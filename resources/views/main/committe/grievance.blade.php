@@ -1,14 +1,15 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Student Grievance Redressal cell @endsection
+@section('title')Sri Shanmugha College of Nursing For Women (SSCP)- Student Grievance Redressal cell @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description')  Sri Shanmugha College of Nursing (SSCON) is sponsored by Sri Shanmugha Educational and Charitable Trust. @endsection
+
 
 @section('MobileTitle') Student Grievance @endsection
 
 
-@section('Academics')active @endsection
+@section('Committes')active @endsection
 
 
 @section('BreadCrumb')
@@ -37,6 +38,19 @@
                     <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">&nbsp;&nbsp;&nbsp;The Student Grievance Cell was set up in order to redress academic and non-academic problems and grievances which the students undergo in the campus. The cell looks into the grievances very carefully after collecting letters/feedback related to their problems via suggestion box. Proper remedial measures or actions are made with regard to the base and nature of the problems. The committee functions with the following objectives.</p>
                     </div>
+                    <div class="about-sub">
+                        <div class="col-md about_bottom_left">
+                            
+                            <p align="justify"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&ensp;&ensp;&ensp;    To redress academic and administrative grievances and problems of the students.</p>
+                             
+                            <p align="justify"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&ensp;&ensp;&ensp;    To make faculty members responsive and well-mannered in handling the students.</p>
+                              
+                            <p align="justify"><i class="fa fa-hand-o-right" aria-hidden="true"></i>&ensp;&ensp;&ensp;    To take remedial measures with impartial and holistic approach.</p>
+                              
+                         
+                        </div> 
+                    </div>
+            
                     <div class="offset-top-30 offset-sm-top-60">
                         <table class="table table-custom table-fixed bordered-table stacktable large-only">
                             <tbody>
@@ -50,8 +64,8 @@
                             </tr>
                             <tr>
                                 <td>1</td>
-                                <td>DR.S.Jayaraman</td>
-                                <td>Principal</td>
+                                <td>DR. S. Jayaraman</td>
+                                <td>Principle</td>
                                 <td>Convener</td>
                                 <td>principal@shanmughapharmacy.edu.in</td>
                                 <td>9865462217</td>
@@ -66,7 +80,7 @@
                             </tr>
                             <tr>
                                 <td>3</td>
-                                <td>Prof. Dr G. Rathinavel</td>
+                                <td>Prof. G. Rathinavel</td>
                                 <td>Vice Principal</td>
                                 <td>Co-Convener</td>
                                 <td>grvelsp@gmail.com</td>

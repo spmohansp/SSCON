@@ -3,7 +3,8 @@
 @section('title')Sri Shanmugha College of Nursing For Women (SSCP).Anti- Ragging Squad.@endsection
 
 
-@section('Description') Sri Shanmugha College of Nursing For Women (SSCP).Anti-Ragging Squad. @endsection
+@section('Description') Sri Shanmugha College of Nursing (SSCON) is sponsored by Sri Shanmugha Educational and Charitable Trust. @endsection
+
 
 @section('MobileTitle')Anti- Ragging Squad @endsection
 
