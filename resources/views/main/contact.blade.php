@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Contact @endsection
+@section('title')Sri Shanmugha College of Nursing For Women (SSCP).- Contact. @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy (SSCP), Sankari – Tiruchengode Main Road, Pullipalayam, Sankari (tk), Salem,Tamil Nadu - 637304.Phone : 073736 72999 @endsection
+@section('Description')  Sri Shanmugha College of Nursing For Women (SSCON) Sankari – Tiruchengode Main Road,Pullipalayam, Sankari Taluk, Salem,Tamil Nadu 637304.@endsection
 
 @section('MobileTitle') Contact @endsection
 
@@ -88,7 +88,7 @@
                                 <div class="unit unit-horizontal unit-spacing-xs">
                                     <div class="unit-left"><span class="icon icon-xs mdi mdi-map-marker text-madison"></span></div>
                                     <div class="unit-body">
-                                        <h5>Sri Shanmugha College of Pharmacy</h5>
+                                        <h5>Sri Shanmugha College of Nursing For Women</h5>
                                         <p class="text-dark">Sankari – Tiruchengode Main Road, Pullipalayam,</p>
                                         <p class="text-dark">Morur (Po),Sankari (TK), Salem (Dt), Tamil Nadu,Pin-637304</p>
                                     </div>
@@ -134,11 +134,11 @@
                                             </tr>
                                             <tr style="background-color:#f6f6f6;color:#fff;">
                                                 <td>College</td>
-                                                <td><a href="mailto:srishanmughacollegeofpharmacy1@gmail.com">srishanmughacollegeofpharmacy1@gmail.com</a></td>
+                                                <td><a href="mailto:info@shanmugha.edu.in">info@shanmugha.edu.in</a></td>
                                             </tr>
                                             <tr style="background-color:#fff;color:#fff;">
                                                 <td>Principal</td>
-                                                <td><a href="mailto:principal@shanmughapharmacy.edu.in">principal@shanmughapharmacy.edu.in</a></td>
+                                                <td><a href="mailto:principal@shanmughanursing.edu.in">principal@shanmughanursing.edu.in</a></td>
                                             </tr>
                                         </tbody>
                                     </table>
