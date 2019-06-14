@@ -75,9 +75,9 @@
                                             <ul class="col-lg-4">
                                                 <li>
                                                     <h6>Academic</h6>
-                                                    <ul class="list-unstyled offset-lg-top-20">
+                                                    <!-- <ul class="list-unstyled offset-lg-top-20">
                                                         <li><a href="{{ url('/images/news-letter/PCI-SIF2019-2020.pdf') }}" target="_blank">PCI - SIF (2019-2020)</a></li>
-                                                    </ul>
+                                                    </ul> -->
                                                 </li>
                                             </ul>
 

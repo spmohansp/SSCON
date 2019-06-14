@@ -14,7 +14,7 @@
 @section('BreadCrumb')
     <section class="breadcrumb-classic context-dark">
         <div class="shell section-30 section-sm-top-70 section-sm-bottom-60">
-            <h1 class="veil reveal-sm-block">Events</h1>
+            <h1 class="veil reveal-sm-block">Our Events</h1>
             <div class="offset-sm-top-35">
                 <ul class="list-inline list-inline-lg list-inline-dashed p">
                     <li><a href="{{ url('/') }}">Home</a></li>
@@ -32,7 +32,7 @@
         <div class="shell-wide">
             <div class="range range-xs-center">
                 <div class="cell-lg-12 offset-top-100 offset-lg-top-0">
-                    <div class="hr divider bg-madison"></div>
+                    <!-- <div class="hr divider bg-madison"></div> -->
                     <div class="offset-top-100"></div>
                     <div id="child-calendar-carousel" data-arrows="false" data-loop="true" data-dots="false" data-swipe="false" data-items="1" data-for=".carousel-parent" class="slick-slider">
 
@@ -43,7 +43,7 @@
                                     <!-- Events images -->
 
 
-                                    <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
+                                    <!-- <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
                                         <article class="post-event">
                                             <div class="post-event-img-overlay"><img src="/images/events/shanmugha-pharmacy-woments-day-2019.jpg" width="420" height="420" alt="WOMEN’S DAY CELEBRATION 2019" class="img-responsive">
                                                 <div class="post-event-overlay context-dark">
@@ -67,10 +67,10 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
+                                    </div> -->
 
 
-                                    <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
+                                    <!-- <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
                                         <article class="post-event">
                                             <div class="post-event-img-overlay"><img src="/images/events/pongal.jpg" width="420" height="420" alt="Pongal Celebration Shanmugha Pharmacy 2019" class="img-responsive">
                                                 <div class="post-event-overlay context-dark">
@@ -94,10 +94,10 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
+                                    </div> -->
 
 
-                                    <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
+                                    <!-- <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
                                         <article class="post-event">
                                             <div class="post-event-img-overlay"><img src="/images/events/iv3.jpg" width="420" height="420" alt="Shanmugha college of Pharmacy Industrial Visit 2018" class="img-responsive">
                                                 <div class="post-event-overlay context-dark">
@@ -121,10 +121,10 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
+                                    </div> -->
 
 
-                                    <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
+                                    <!-- <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
                                         <article class="post-event">
                                             <div class="post-event-img-overlay"><img src="/images/events/educationalvisit1.jpg" width="420" height="420" alt="" class="img-responsive">
                                                 <div class="post-event-overlay context-dark">
@@ -148,9 +148,9 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
+                                    </div> -->
 
-                                    <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
+                                    <!-- <div class="cell-sm-6 cell-md-5 cell-xl-3 offset-top-50 offset-sm-top-0">
                                         <article class="post-event">
                                             <div class="post-event-img-overlay"><img src="/images/slider/college.jpg" width="420" height="420" alt="" class="img-responsive">
                                                 <div class="post-event-overlay context-dark">
@@ -174,7 +174,7 @@
                                                 </div>
                                             </div>
                                         </article>
-                                    </div>
+                                    </div> -->
 
                                     <!-- End Events images -->
                                 </div>
