@@ -56,16 +56,19 @@
                                             </ul>
                                             <ul class="col-lg-4">
                                                 <li>
-                                                    <h6>Facilities</h6>
+                                                    <h6><a href="{{ route('facilities') }}">Facilities</h6>
                                                     <ul class="list-unstyled offset-lg-top-20">
                                                         <li><a href="{{ route('Hostel') }}">Hostel</a></li>
                                                         <li><a href="{{ route('Cafeteria') }}">Cafeteria</a></li>
                                                         <li><a href="{{ route('Transport') }}">Transport</a></li>
-                                                        <li><a href="{{ route('Library') }}">Library</a></li>
-                                                        <li><a href="#">Auditorium</a></li>
-                                                        <li><a href="#">Sports & Games</a></li>
-                                                        <li><a href="#">Fitness Center</a></li>
-                                                        <li><a href="{{ route('Student_Grievance') }}">Students Grievances</a></li>
+                                                        <li><a href="{{ route('Library') }}">Knowledge Centre</a></li>
+                                                        <li><a href="{{ route('Laboratory') }}">Laboratory Facilities</a></li>
+                                                        <li><a href="{{ route('Clinical_Experience') }}">Clinical Experience</a></li>
+                                                        <li><a href="{{ route('Faculty') }}">Faculty</a></li>
+                                                        <li><a href="{{ route('Co-Curricular_Activities') }}">The Co-Curricular Activities</a></li>
+                                                        <li><a href="{{ route('Sports') }}">Sports</a></li>
+                                                        <li><a href="{{ route('Scholarships') }}">Scholarships</a></li>
+                                                      
                                                     </ul>
                                                 </li>
                                             </ul>

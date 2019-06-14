@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Hostel @endsection
+@section('title')Sri Shanmugha College of Nursing - Hostel @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description') Sri Shanmugha College of Nursing was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
 
 @section('MobileTitle') Hostel @endsection
 
@@ -32,7 +32,7 @@
         <div class="shell">
             <div class="range">
                 <div class="cell-sm-4 cell-sm-push-2 text-sm-left">
-                    <div class="inset-sm-left-30"><img src="{{ url('/images/facilities/hostel.jpg') }}" width="450" height="400" alt="Shanmugha pharmacy hostel" class="img-responsive reveal-inline-block img-rounded">
+                    <div class="inset-sm-left-30"><img src="{{ url('/images/facilities/hostel.jpg') }}" width="450" height="400" alt="Shanmugha nursing hostel" class="img-responsive reveal-inline-block img-rounded">
                             <div class="offset-top-20">
                             <h6 class="text-primary text-bold">Our Hostel</h6>
                         </div>
@@ -42,9 +42,9 @@
                     <h2 class="text-bold">Our Hostel</h2>
                     <hr class="divider bg-madison hr-sm-left-0">
                     <div class="offset-top-30 offset-sm-top-60">
-                        <p align="justify">&nbsp;&nbsp;&nbsp;<b>Sri Shanmugha College of Pharmacy</b> (SSCOP) provides accommodation to students wishing to reside in the hostels. Hostel in the institute is an independent unit in respect to its internal administration under the overall supervision is done by the Principal and the Hostel Management. The hostel is administered by a Warden appointed by the Chairman and he/she will be assisted by the assistant warden.</p>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;The hostel block built in stands as a distinctive structure in the whole of the campus is a home away from home for female students. The hostel provides excellent living rooms, recreation facilities, sanitary facilities and good water supply for 24 hours</p>
                     </div>
-                    <div class="offset-top-30 offset-sm-top-60">
+                    <!-- <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">&nbsp;&nbsp;&nbsp;Hostel has a Hostel Council which is an advisory body comprising the Warden (as its Chairman), the assistant warden and the elected student secretaries as its members. The Hostel Council plans the students activities for a year which includes preparation for the sports budget, recreational and other social activities and is also responsible for the functioning of mess with the help of the mess committee.</p>
                     </div>
                     <div class="offset-top-30 offset-sm-top-60">
@@ -70,7 +70,7 @@
                     </div>
                     <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">&nbsp;&nbsp;&nbsp;Application for Admission to the Hostel shall be made in the prescribed form.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

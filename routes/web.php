@@ -40,6 +40,9 @@ Route::get('/vision-mission', function () {
 
 
 //FACILITIES
+Route::get('/facilities', function () {
+    return view('main.facilities.facilities');
+})->name('facilities');
 Route::get('/hostel', function () {
     return view('main.facilities.hostel');
 })->name('Hostel');
@@ -52,9 +55,25 @@ Route::get('/transport', function () {
 Route::get('/library', function () {
     return view('main.facilities.library');
 })->name('Library');
-Route::get('/Student-Grievance-Redressal-Cell', function () {
-    return view('main.facilities.grievance');
-})->name('Student_Grievance');
+Route::get('/laboratory', function () {
+    return view('main.facilities.laboratoryfacilities');
+})->name('Laboratory');
+Route::get('/clinical_experience', function () {
+    return view('main.facilities.ClinicalExperience');
+})->name('Clinical_Experience');
+Route::get('/faculty', function () {
+    return view('main.facilities.faculty');
+})->name('Faculty');
+Route::get('/cocurricular_activities', function () {
+    return view('main.facilities.cocurricular_activities');
+})->name('Co-Curricular_Activities');
+Route::get('/sports', function () {
+    return view('main.facilities.sports');
+})->name('Sports');
+Route::get('/scholarships', function () {
+    return view('main.facilities.scholarships');
+})->name('Scholarships');
+
 
 //Events
 Route::get('/events', function () {

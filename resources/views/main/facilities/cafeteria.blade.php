@@ -1,9 +1,9 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Pharmacy - Cafeteria @endsection
+@section('title')Sri Shanmugha College of Nursing - Cafeteria @endsection
 
 
-@section('Description') Sri Shanmugha College of Pharmacy was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
+@section('Description') Sri Shanmugha College of Nursing was established in the year 2017 by the industrialist and philanthropist Thiru.K.Shanmugham. The college is recognized by the Government of Tamil Nadu and affiliated to The Tamil Nadu Dr.MGR Medical University. @endsection
 
 @section('MobileTitle') Cafeteria @endsection
 
@@ -32,7 +32,7 @@
         <div class="shell">
             <div class="range">
                 <div class="cell-sm-4 cell-sm-push-2 text-sm-left">
-                    <div class="inset-sm-left-30"><img src="{{ url('/images/college/cafeteria1.jpg') }}" width="450" height="400" alt="Shanmugha pharmacy hostel" class="img-responsive reveal-inline-block img-rounded">
+                    <div class="inset-sm-left-30"><img src="{{ url('/images/college/cafeteria1.jpg') }}" width="450" height="400" alt="Shanmugha nursing hostel" class="img-responsive reveal-inline-block img-rounded">
                             <div class="offset-top-20">
                             <h6 class="text-primary text-bold">Our Cafeteria</h6>
                         </div>
@@ -43,7 +43,7 @@
                     <hr class="divider bg-madison hr-sm-left-0">
                     <div class="offset-top-30 offset-sm-top-60">
                         <i>“Every man should eat and enjoy the fruit of all his labour; it is the gift of god”</i>
-                        <p align="justify">&nbsp;&nbsp;&nbsp;Inside the sprawling campus of our Sri Shanmugha College of Pharmacy there is a cafeteria that function to serve the students and staff members.</p>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;Inside the sprawling campus of our Sri Shanmugha College of Nursing there is a cafeteria that function to serve the students and staff members.</p>
                     </div>
                     <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">

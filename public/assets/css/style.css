@@ -42028,3 +42028,34 @@ body { background: #221; }
 /*slide*/
 
 
+/*transport*/
+
+
+
+    /*---------------------------------------------------------------------
+
+
+                    TABLE STYLE
+
+
+
+    ----------------------------------------------------------------------*/
+    
+
+
+    .row2 td {
+
+        background: #a7c6f1;
+
+        color: #000;
+
+        padding: 8px;
+
+        text-align: left;
+
+        border-left: 1px solid #999999 !important;
+
+        border-right: 1px solid #999999 !important;
+
+    }
+

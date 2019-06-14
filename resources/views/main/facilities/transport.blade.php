@@ -48,7 +48,7 @@
                         <p align="justify">&nbsp;&nbsp;&nbsp;The College runs 10 buses for providing transport facility to students from various places in the city. The number of buses will be increased corresponding to the increase in the intake of students.
                         </p>
                     </div>
-                    <div class="offset-top-30 offset-sm-top-60">
+                    <!-- <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">&nbsp;&nbsp;&nbsp;The transport facility provided by the College will cover most parts of the town and nearby areas with the brand new fleet.</p>
                     </div>
                     <div class="offset-top-30 offset-sm-top-60">
@@ -62,7 +62,7 @@
                     </div>
                     <div class="offset-top-30 offset-sm-top-60">
                         <p align="justify">&nbsp;&nbsp;&nbsp;The time mentioned below is the indicative time. The Students are asked to come to the boarding point, 10 minutes before the time indicated.</p>
-                    </div>
+                    </div> -->
                     <div class="table-layout">
                         <table class="table table-custom table-fixed bordered-table stacktable large-only">
                             <tbody>
