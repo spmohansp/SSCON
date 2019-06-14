@@ -29,10 +29,10 @@
 
 @section('content')
 
-    <main class="page-content section-70 section-md-114">
+    <main class="page-content section-100 section-md-114">
         <div class="shell text-left">
             <div class="range range range-xs-center">
-                <div class="cell-xs-10 cell-sm-8">
+                <div class="cell-xs-12 cell-sm-12">
                     <h6 class="text-bold">Anti - Discrimination Cell</h6>
                     <p align="justify">&ensp;&ensp;&ensp;Sri Shanmugha College of Nursing, Sankari Tk, Salem Dt is a place where the learning is celebrated every day. Our institution provides everybody with equal opportunity into its fold irrespective of caste, religion, language or based on gender. The institution ensures that every individual inside the campus exercise equal rights and acquire in the process of offering or receiving education. Justice, Peace and Revolution are the roots based on which the living system exist in the campus. Any act, speech or intentions that perturb the harmony among the people is seriously regarded and dealt on immediate basis to restore the peace. Any such issues if found shall be brought into the notice by email to Anti -Discrimination officer, Mr. G. Rathinavel, Professor.</p>
                     <div class="offset-top-60">

@@ -30,10 +30,10 @@
 @section('content')
 
 
-    <main class="page-content section-70 section-md-114">
+    <main class="page-content section-100 section-md-114">
         <div class="shell text-left">
             <div class="range range range-xs-center">
-                <div class="cell-xs-10 cell-sm-8">
+                <div class="cell-xs-12 cell-sm-12">
                     <h6 class="text-bold">SC/ST Committee</h6>
                     <p align="justify">&ensp;&ensp;&ensp;The committee was set up in order to redress academic, non-academic problems andgrievances which faculty and students undergo in the campus. Proper remedial measures oractions are made with regard to the base and nature of the problems. </p><p align="justify">&ensp;&ensp;&ensp;This committee is formed as per guidelines from AICTE approval process hand book forthe academic year 2017-18 and the Scheduled Castes and the scheduled Tribes (Prevention ofAtrocities) Act. 1989, No. 33 of1989, and dated 1 1 .09.1989.This committee spreadsawareness and prevent untoward incidence regarding these matters as well as handle thecomplaints with reference to the above said act.</p>
                     <p align="justify">&ensp;&ensp;&ensp;The scheduled Caste (SC) and Scheduled Tribes (ST) Cell in an institute promotes thespecial interest of students in the reserved category and to provide special inputs in areaswhere the students experience difficult. The cell regularly have to conduct remedial coachingclasses on life skills, personality development, writing assignments and making presentationsand also have to organize interactive sessions and informal meetings with students to attend totheir personal, social and academic problems. In case of any grievance in this regard, studentscan approach the committee for redressal. The committee will suggest measures to preventatrocities, if any against the members of SC/ST students in our College and to ensure thefeeling of security amongst them as per the provisions in the said act.</p>
@@ -41,15 +41,16 @@
             <div class="offset-top-60">
                         <h6 class="text-bold">Members of SC/ST Committee</h6>
                        <div class="offset-top-30 offset-sm-top-60">
-                        <table class="table table-custom table-fixed bordered-table stacktable large-only">
+                       <div class="table-responsive">
+                        <table class="table table-bordered">
                             <tbody>
                             <tr>
-                                <th>S.No</th>
-                                <th>Name of the faculty</th>
-                                <th>Designation</th>
-                                <th>Position</th>
-                                <th>E.Mail </th>
-                                <th>Contact</th>
+                                <th style="background-color:#7f0909;color:#fff;">S.No</th>
+                                <th style="background-color:#7f0909;color:#fff;">Name of the faculty</th>
+                                <th style="background-color:#7f0909;color:#fff;">Designation</th>
+                                <th style="background-color:#7f0909;color:#fff;">Position</th>
+                                <th style="background-color:#7f0909;color:#fff;">E.Mail </th>
+                                <th style="background-color:#7f0909;color:#fff;">Contact</th>
                             </tr>
                             <tr>
                                 <td>1</td>
@@ -85,6 +86,7 @@
                             </tr>
                             </tbody>
                         </table>
+                    </div>
                     </div>
                 </div>
             </div>
