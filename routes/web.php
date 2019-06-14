@@ -110,7 +110,7 @@ Route::get('/sc-st-committee', function () {
     return view('main.committe.sc-st-committe');
 })->name('sc-st-committe');
 
-Route::get('/Student-Grievance-Redressal-Cell', function () {
+Route::get('/Student_Grievance_Redressal_Cell', function () {
     return view('main.committe.grievance');
 })->name('Student_Grievance');
 

@@ -1,6 +1,6 @@
 @extends('main.layout.master')
 
-@section('title')Sri Shanmugha College of Nursing For Women (SSCP)- Student Grievance Redressal cell @endsection
+@section('title')Sri Shanmugha College of Nursing For Women (SSCON)- Student Grievance Redressal cell @endsection
 
 
 @section('Description')  Sri Shanmugha College of Nursing (SSCON) is sponsored by Sri Shanmugha Educational and Charitable Trust. @endsection
@@ -36,7 +36,7 @@
                     <h2 class="text-bold">Our Student Grievance Redressal cell</h2>
                     <hr class="divider bg-madison hr-sm-left-0">
                     <div class="offset-top-30 offset-sm-top-60">
-                        <p align="justify">&nbsp;&nbsp;&nbsp;The Student Grievance Cell was set up in order to redress academic and non-academic problems and grievances which the students undergo in the campus. The cell looks into the grievances very carefully after collecting letters/feedback related to their problems via suggestion box. Proper remedial measures or actions are made with regard to the base and nature of the problems. The committee functions with the following objectives.</p>
+                        <p align="justify">&nbsp;&nbsp;&nbsp;The Student Grievance Cell was set up in order to redress academic and non-academic problems and grievances which the students undergo in the campus. The cell looks into the grievances very carefully after collecting letters/feedback related to their problems via suggestion box. Proper remedial measures or actions are made with regard to the base and nature of the problems. The committee functions with the following objectives.</p><BR>
                     </div>
                     <div class="about-sub">
                         <div class="col-md about_bottom_left">
@@ -49,9 +49,9 @@
                               
                          
                         </div> 
-                    </div>
+                    </div><br><br>
             
-                    <div class="offset-top-30 offset-sm-top-60">
+                    <!-- <div class="offset-top-30 offset-sm-top-60">
                         <table class="table table-custom table-fixed bordered-table stacktable large-only">
                             <tbody>
                             <tr>
@@ -122,6 +122,78 @@
                                 <td>9207687071</td>
                             </tr>
 
+                            </tbody>
+                        </table>
+                    </div> -->
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            
+                            <tbody>
+                                <tr>
+                                    <th style="background-color:#7f0909;color:#fff;">S.No</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Name of the faculty/
+                                        Student</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Designation</th>
+                                    <th style="background-color:#7f0909;color:#fff;">Position</th>
+                                    <th style="background-color:#7f0909;color:#fff;">E.Mail </th>
+                                    <th style="background-color:#7f0909;color:#fff;">Contact</th>
+                                </tr>
+                                <tr style="background-color:#f6f6f6;color:#000;">
+                                    <td>1</td>
+                                    <td>DR. S. Jayaraman</td>
+                                    <td>Principle</td>
+                                    <td>Convener</td>
+                                    <td>principal@shanmughapharmacy.edu.in</td>
+                                    <td>9865462217</td>
+                                </tr>
+                                <tr style="background-color:#fff;color:#000;">
+                                    <td>2</td>
+                                    <td>Public Relations Officer, The Tamilnadu  Dr. MGR Medical University</td>
+                                    <td>Public Relations Officer</td>
+                                    <td>Ombudsman   </td>
+                                    <td>grievances@tnmgrmu.ac.in</td>
+                                    <td>04422353574,76-79, 22301760-63 - Extn:204</td>
+                                </tr>
+                                <tr style="background-color:#f6f6f6;color:#000;">
+                                    <td>3</td>
+                                    <td>Prof. G. Rathinavel</td>
+                                    <td>Vice Principal</td>
+                                    <td>Co-Convener</td>
+                                    <td>grvelsp@gmail.com</td>
+                                    <td>9842717939</td>
+                                </tr>
+                                <tr style="background-color:#fff;color:#000;">
+                                    <td>4</td>
+                                    <td>Mr. P. Balasubramaniam</td>
+                                    <td>ASST. PROFESSOR</td>
+                                    <td>Member</td>
+                                    <td>constatinebala@gmail.com</td>
+                                    <td>8778310052</td>
+                                </tr>
+                                <tr style="background-color:#f6f6f6;color:#000;">
+                                    <td>5</td>
+                                    <td>Mr. S. Parthiban</td>
+                                    <td>ASST. PROFESSOR</td>
+                                    <td>Member</td>
+                                    <td>Singaparthi131@gmail.com</td>
+                                    <td>9976315073</td>
+                                </tr>
+                                 <tr style="background-color:#fff;color:#000;">
+                                    <td>6</td>
+                                    <td>Mr. T. Boopathi</td>
+                                    <td>ASST. PROFESSOR</td>
+                                    <td>members</td>
+                                    <td>tboopathimpharm@gmail.com</td>
+                                    <td>7373570806</td>
+                                </tr>
+                                <tr style="background-color:#f6f6f6;color:#000;">
+                                    <td>7</td>
+                                    <td>Mr. Jimmy Alex</td>
+                                    <td>ASST. PROFESSOR</td>
+                                    <td>members</td>
+                                    <td>jimmyalexander211@gmail.com</td>
+                                    <td>9207687071</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
