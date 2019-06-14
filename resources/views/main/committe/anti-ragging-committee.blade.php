@@ -28,10 +28,10 @@
 @endsection
 
 @section('content')
-    <main class="page-content section-70 section-md-114">
+    <main class="page-content section-100 section-md-114">
         <div class="shell text-left">
             <div class="range range range-xs-center">
-                <div class="cell-xs-10 cell-sm-8">
+                <div class="cell-xs-12 cell-sm-12">
                     <h6 class="text-bold">Constitution of Anti -Ragging Committee</h6>
                     <p align="justify">&ensp;&ensp;&ensp;On behalf of Sri Shanmugha College of Nursing, Morur post, pullipalayam, Sankari Tk, Salem Dt the following members were appointed in the anti-ragging committee. The committee has the rights to act against ragging by means of any conduct whether by words spoken or written or by an act which has the effect of teasing, treating, handling with rudeness any other student, indulging in rowdy or undisciplined activities which causes or is likely to cause annoyance, hardship or psychological harm or to raise fear or apprehension thereof in a fresher or a junior student or asking the students to do any act or perform something which such student will not  in the ordinary course and which has the effect of causing or generating a sense of shame or embarrassment so as to adversely affect the physique or psyche of a fresher or a junior student. The Anti-Ragging Committee Members are as follows.</p>
   <div class="col-md about_bottom_left">

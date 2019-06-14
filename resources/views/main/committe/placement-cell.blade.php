@@ -31,10 +31,10 @@
 @section('content')
 
 
-    <main class="page-content section-70 section-md-114">
+    <main class="page-content section-100 section-md-114">
         <div class="shell text-left">
             <div class="range range range-xs-center">
-                <div class="cell-xs-10 cell-sm-8">
+                <div class="cell-xs-12 cell-sm-12">
                     <h6 class="text-bold">Placement Cell</h6>
                     <p align="justify">&ensp;&ensp;&ensp;Our Sri Shanmugha College of Nursing have formed placement cell in view of organizing campus interviews by inviting various companies for the placement of the student for jobs. It provides placement assistance to students of  BSC.Nursing courses. Our placement cell also helps in managing industry interactions and industry relations.</p>
                     <p align="justify">&ensp;&ensp;&ensp;The Placement Cell will organizes career guidance programmes for all the students starting from first year. The cell arranges training programmes like Mock Interviews, Group Discussions, and Communication Skills Workshop etc. Also the cell will organizes Public Sector Exam Training for students who are interested to join Government Sectors..</p>
