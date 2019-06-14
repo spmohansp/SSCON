@@ -69,13 +69,6 @@
                                                         <li><a href="{{ route('Co-Curricular_Activities') }}">The Co-Curricular Activities</a></li>
                                                         <li><a href="{{ route('Sports') }}">Sports</a></li>
                                                         <li><a href="{{ route('Scholarships') }}">Scholarships</a></li>
-                                                      
-                                                        <li><a href="{{ route('Library') }}">Library</a></li>
-                                                        <li><a href="#">Auditorium</a></li>
-                                                        <li><a href="#">Sports & Games</a></li>
-                                                        <li><a href="#">Fitness Center</a></li>
-                                                       
-
                                                     </ul>
                                                 </li>
                                             </ul>
