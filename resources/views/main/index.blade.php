@@ -82,27 +82,36 @@
             <div class="swiper-pagination"></div>
         </div> -->
 
-        <div data-height="47.179%" data-loop="true" data-dragable="false" data-min-height="480px" data-slide-effect="true" class="swiper-container swiper-slider">
+        <!-- <div data-height="47.179%" data-loop="true" data-dragable="false" data-min-height="480px" data-slide-effect="true" class="swiper-container swiper-slider">
             <div id="swiper-wrapper">
                 <img class="imageSlides" src="/images/nursing/nursing-lab-1.jpg" style="background-position: 50% center" class="swiper-slide">
                 <img class="imageSlides" src="/images/nursing/nursing-lab-2.jpg" style="background-position: 70% center" class="swiper-slide">
                 <img class="imageSlides" src="/images/nursing/shanmugha-hospital-image.jpg" style="background-position: 70% center" class="swiper-slide">
-                <!-- <img class="imageSlides" src="/images/slider/pharmacy-class.jpg" style="background-position: 60% center" class="swiper-slide">
-                <img class="imageSlides" src="/images/slider/auditorium.jpg" style="background-position: 60% center" class="swiper-slide"> -->
+                <img class="imageSlides" src="/images/slider/pharmacy-class.jpg" style="background-position: 60% center" class="swiper-slide">
+                <img class="imageSlides" src="/images/slider/auditorium.jpg" style="background-position: 60% center" class="swiper-slide">
                 <span id ="leftArrow" class="slideshowArrow">&triangleleft;</span>
                 <span id ="rightArrow" class="slideshowArrow">&triangleright;</span>
                 <div class="slideshowCircles">
                     <span class="circle dot"></span>
                     <span class="circle"></span>
                     <span class="circle"></span>
-                    <!-- <span class="circle"></span>
-                    <span class="circle"></span> -->
+                    <span class="circle"></span>
+                    <span class="circle"></span>
                     
 
                 </div>
   
             </div>
+        </div> -->
+        <div data-height="47.179%" data-loop="true" data-dragable="false" data-min-height="480px" data-slide-effect="true" class="swiper-container swiper-slider">
+            <div class="swiper-wrapper">
+                <div data-slide-bg="{{ url("/images/nursing/nursing-lab-1.jpg") }}" style="background-position: 50% center" class="swiper-slide"></div>
+                <div data-slide-bg="{{ url("/images/nursing/nursing-lab-2.jpg") }}" style="background-position: 50% center" class="swiper-slide"></div>
+                <div data-slide-bg="{{ url("/images/nursing/shanmugha-hospital-image.jpg") }}" style="background-position: 50% center" class="swiper-slide"></div>
+                <!-- <div data-slide-bg="{{ url("/images/slider/auditorium.jpg") }}" style="background-position: 60% center" class="swiper-slide"></div> -->
+            </div>
         </div>
+        <div class="swiper-pagination"></div>
     </section>
 
     <div class="newsLetterStyle"><span style="color: white;">News Letter</span></div>
@@ -192,89 +201,38 @@
         });
     </script>
 
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script>
-        // IMAGE SLIDES & CIRCLES ARRAYS, & COUNTER
-        var imageSlides = document.getElementsByClassName('imageSlides');
-        var circles = document.getElementsByClassName('circle');
-        var leftArrow = document.getElementById('leftArrow');
-        var rightArrow = document.getElementById('rightArrow');
-        var counter = 0;
-
-        // HIDE ALL IMAGES FUNCTION
-        function hideImages() {
-          for (var i = 0; i < imageSlides.length; i++) {
-            imageSlides[i].classList.remove('visible');
-          }
-        }
-
-        // REMOVE ALL DOTS FUNCTION
-        function removeDots() {
-          for (var i = 0; i < imageSlides.length; i++) {
-            circles[i].classList.remove('dot');
-          }
-        }
-
-        // SINGLE IMAGE LOOP/CIRCLES FUNCTION
-        function imageLoop() {
-          var currentImage = imageSlides[counter];
-          var currentDot = circles[counter];
-          currentImage.classList.add('visible');
-          removeDots();
-          currentDot.classList.add('dot');
-          counter++;
-        }
-
-        // LEFT & RIGHT ARROW FUNCTION & CLICK EVENT LISTENERS
-        function arrowClick(e) {
-          var target = e.target;
-          if (target == leftArrow) {
-            clearInterval(imageSlideshowInterval);
-            hideImages();
-            removeDots();
-            if (counter == 1) {
-              counter = (imageSlides.length - 1);
-              imageLoop();
-              imageSlideshowInterval = setInterval(slideshow, 10000);
-            } else {
-              counter--;
-              counter--;
-              imageLoop();
-              imageSlideshowInterval = setInterval(slideshow, 10000);
-            }
-          } 
-          else if (target == rightArrow) {
-            clearInterval(imageSlideshowInterval);
-            hideImages();
-            removeDots();
-            if (counter == imageSlides.length) {
-              counter = 0;
-              imageLoop();
-              imageSlideshowInterval = setInterval(slideshow, 10000);
-            } else {
-              imageLoop();
-              imageSlideshowInterval = setInterval(slideshow, 10000);
-            }
-          }
-        }
-
-        leftArrow.addEventListener('click', arrowClick);
-        rightArrow.addEventListener('click', arrowClick);
-
-
-        // IMAGE SLIDE FUNCTION
-        function slideshow() {
-          if (counter < imageSlides.length) {
-            imageLoop();
-          } else {
-            counter = 0;
-            hideImages();
-            imageLoop();
-          }
-        }
-
-        // SHOW FIRST IMAGE, & THEN SET & CALL SLIDE INTERVAL
-        setTimeout(slideshow, 1000);
-            var imageSlideshowInterval = setInterval(slideshow, 10000);
+        $(document).ready(function () {
+            //select the POPUP FRAME and show it
+            $("#popup").hide().fadeIn(1000);
+            //close the POPUP if the button with id="close" is clicked
+            $("#close").on("click", function (e) {
+                e.preventDefault();
+                $("#popup").fadeOut(1000);
+            });
+        });
+        $(document).ready(function () {
+            var swiper = new Swiper('.swiper-container', {
+                effect: 'slide',
+                speed: 700,
+                autoplay: 1500,
+                loop: true,
+                grabCursor: true,
+                autoplayDisableOnInteraction: false,
+                observer: true,
+                observeParents: true,
+                pagination: '.swiper-pagination',
+                paginationClickable: true,
+                autoHeight: true,
+            });
+            $("li[role='presentation']").children("a").click(function () {
+                var gallerySwiper = $('.swiper-container');
+                $.each(gallerySwiper, function( index, value ) {
+                    value.swiper.stopAutoplay();
+                    value.swiper.startAutoplay();
+                });
+            });
+        });
     </script>
 @endsection
