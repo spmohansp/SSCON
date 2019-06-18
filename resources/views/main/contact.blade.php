@@ -17,9 +17,7 @@
                 <ul class="list-inline list-inline-lg list-inline-dashed p">
                     <li><a href="{{ url('/') }}">Home</a></li>
                     <li><a href="{{ url('/contact') }}">Contact</a></li>
-                    <li>Apply
-                    </li>
-                </ul>
+                 </ul>
             </div>
         </div>
     </section>

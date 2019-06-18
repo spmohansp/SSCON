@@ -18,7 +18,7 @@
             <div class="offset-sm-top-35">
                 <ul class="list-inline list-inline-lg list-inline-dashed p">
                     <li><a href="{{ url('/') }}">Home</a></li>
-                    <li>About</li>
+                    <li>Academics</li>
                     <li>Sports</li>
                 </ul>
             </div>
