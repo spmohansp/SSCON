@@ -117,10 +117,11 @@
                                         color: #161963
                                     }
                                 </style>
+                                <div class="table table-responsive">
                                     <table class="table table-bordered">
                                         <thead class="thead-dark" >
                                             <tr >
-                                                <th colspan="2" scope="col" style="text-align: center;background-color:#161963;color:#fff;"> <span class="fa fa-envelope-o" aria-hidden="true"></span> MAIL US</th>
+                                                <th colspan="2" scope="col" style="text-align: center;background-color:#7f0909;color:#fff;"> <span class="fa fa-envelope-o" aria-hidden="true"></span> MAIL US</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -142,6 +143,7 @@
                                             </tr>
                                         </tbody>
                                     </table>
+                                </div>
                             </div>
                         </div>
                     </div>
