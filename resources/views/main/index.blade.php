@@ -119,8 +119,7 @@
             <marquee id="scroll_news" style="font-family:Book Antiqua; color: #FFFFFF" bgcolor="#161a63">
                 <div onmouseover="document.getElementById('scroll_news').stop();" onmouseout="document.getElementById('scroll_news').start();">
                     <p style="color: white">
-                        <span class="fa fa-newspaper-o" aria-hidden="true"></span> SPRAYS News Letter Sep - Dec 2018 <a href="https://shanmughapharmacy.edu.in/pharmacy/news-letter/news-letter-sep-dec-2018.pdf" target="_blank">click</a>
-                    </p>
+                        <span class="fa fa-newspaper-o" aria-hidden="true"></span> Welcome To Shanmugha Nursing                    </p>
                 </div>
             </marquee>
         </div>
